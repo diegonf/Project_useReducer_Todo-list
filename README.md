@@ -1,5 +1,7 @@
 # <p align="center">![To-do List](./img.png)<br></p>
 
+Projeto publicado: https://project-use-reducer-todo-list.vercel.app/
+
 ## Descrição do projeto
 Projeto simples de uma to-do list com o objetivo de aplicar o useReducer do react para criar um gerenciamento de estado das to-dos e criar diferentes actions, utilizadas por diferentes componentes, para atualização do estado global do reducer. <br>
 Nesse projeto foi aplicado também o Tailwind, a fim de se ganhar prática na estilização utilizando esse importante framework de CSS.
